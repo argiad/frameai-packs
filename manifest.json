@@ -1,0 +1,352 @@
+{
+  "schemaVersion": 1,
+  "packs": [
+    {
+      "id": "fs-udnie",
+      "name": "Udnie",
+      "engine": "faststyle",
+      "allowsCustomStyles": false,
+      "version": 1,
+      "minAppVersion": "2.0",
+      "styles": [
+        {
+          "id": "udnie",
+          "name": "Udnie",
+          "thumbnail": "thumbs/udnie.jpg",
+          "model": "models/udnie",
+          "defaultStrength": 1.0
+        }
+      ],
+      "assets": {
+        "ios": {
+          "url": "https://github.com/argiad/frameai-packs/releases/download/v1/fs-udnie-ios.zip",
+          "mirrors": [],
+          "sha256": "7e65345a5cc7b7d1702124c4120f9ef2363862e7b1d6f1ef1ff7bf0a7ba43802",
+          "sizeBytes": 3134182
+        },
+        "android": {
+          "url": "https://github.com/argiad/frameai-packs/releases/download/v1/fs-udnie-android.zip",
+          "mirrors": [],
+          "sha256": "97440b2df72d9be15ec19bda7232e83ecda358a491a9a14aedc0e948294d57b8",
+          "sizeBytes": 3139360
+        }
+      }
+    },
+    {
+      "id": "fs-candy",
+      "name": "Candy",
+      "engine": "faststyle",
+      "allowsCustomStyles": false,
+      "version": 1,
+      "minAppVersion": "2.0",
+      "styles": [
+        {
+          "id": "candy",
+          "name": "Candy",
+          "thumbnail": "thumbs/candy.jpg",
+          "model": "models/candy",
+          "defaultStrength": 1.0
+        }
+      ],
+      "assets": {
+        "ios": {
+          "url": "https://github.com/argiad/frameai-packs/releases/download/v1/fs-candy-ios.zip",
+          "mirrors": [],
+          "sha256": "6f1333ce4df58d2b5a525da87d6e51241dd42496451686d318a318cbf04583e8",
+          "sizeBytes": 3144368
+        },
+        "android": {
+          "url": "https://github.com/argiad/frameai-packs/releases/download/v1/fs-candy-android.zip",
+          "mirrors": [],
+          "sha256": "8fcc88cdd39aff367c7a194b92a823c9f0f504b706f24127dc20e3117e62fd77",
+          "sizeBytes": 3149681
+        }
+      }
+    },
+    {
+      "id": "fs-mosaic",
+      "name": "Mosaic",
+      "engine": "faststyle",
+      "allowsCustomStyles": false,
+      "version": 1,
+      "minAppVersion": "2.0",
+      "styles": [
+        {
+          "id": "mosaic",
+          "name": "Mosaic",
+          "thumbnail": "thumbs/mosaic.jpg",
+          "model": "models/mosaic",
+          "defaultStrength": 1.0
+        }
+      ],
+      "assets": {
+        "ios": {
+          "url": "https://github.com/argiad/frameai-packs/releases/download/v1/fs-mosaic-ios.zip",
+          "mirrors": [],
+          "sha256": "54c72ca7a4d54f4b68a4128d354ad079432f8089c76bc612137d174493e0efeb",
+          "sizeBytes": 3146514
+        },
+        "android": {
+          "url": "https://github.com/argiad/frameai-packs/releases/download/v1/fs-mosaic-android.zip",
+          "mirrors": [],
+          "sha256": "43c025f0f317cf51491c8faf182d2366ec137616ab3c24c0d7b5145d41c75f88",
+          "sizeBytes": 3151689
+        }
+      }
+    },
+    {
+      "id": "fs-pointilism",
+      "name": "Pointilism",
+      "engine": "faststyle",
+      "allowsCustomStyles": false,
+      "version": 1,
+      "minAppVersion": "2.0",
+      "styles": [
+        {
+          "id": "pointilism",
+          "name": "Pointilism",
+          "thumbnail": "thumbs/pointilism.jpg",
+          "model": "models/pointilism",
+          "defaultStrength": 1.0
+        }
+      ],
+      "assets": {
+        "ios": {
+          "url": "https://github.com/argiad/frameai-packs/releases/download/v1/fs-pointilism-ios.zip",
+          "mirrors": [],
+          "sha256": "b9a89bf4a670fce73c60a27886f6cf5d22ebeb3109f705ae0470664c8da1bdb8",
+          "sizeBytes": 3134482
+        },
+        "android": {
+          "url": "https://github.com/argiad/frameai-packs/releases/download/v1/fs-pointilism-android.zip",
+          "mirrors": [],
+          "sha256": "be19a45227147dc1982bbb55257dc501402adb9c98d11e831f2157be5eb50e05",
+          "sizeBytes": 3139669
+        }
+      }
+    },
+    {
+      "id": "fs-rain-princess",
+      "name": "Rain Princess",
+      "engine": "faststyle",
+      "allowsCustomStyles": false,
+      "version": 1,
+      "minAppVersion": "2.0",
+      "styles": [
+        {
+          "id": "rain-princess",
+          "name": "Rain Princess",
+          "thumbnail": "thumbs/rain-princess.jpg",
+          "model": "models/rain-princess",
+          "defaultStrength": 1.0
+        }
+      ],
+      "assets": {
+        "ios": {
+          "url": "https://github.com/argiad/frameai-packs/releases/download/v1/fs-rain-princess-ios.zip",
+          "mirrors": [],
+          "sha256": "803811216f950b4d7f8b252f584734a1b2d7e0c34fa19f08d5bcbd7076c0c098",
+          "sizeBytes": 3142163
+        },
+        "android": {
+          "url": "https://github.com/argiad/frameai-packs/releases/download/v1/fs-rain-princess-android.zip",
+          "mirrors": [],
+          "sha256": "3d31a93412ec1838badb1d6f53fc1f54684ac37fd5e488b91252d1482663e490",
+          "sizeBytes": 3147412
+        }
+      }
+    },
+    {
+      "id": "art-starry-night",
+      "name": "Starry Night",
+      "engine": "capvst",
+      "allowsCustomStyles": true,
+      "version": 1,
+      "minAppVersion": "2.0",
+      "styles": [
+        {
+          "id": "starry-night",
+          "name": "Starry Night",
+          "mode": "artistic",
+          "thumbnail": "thumbs/starry-night.jpg",
+          "coloringMatrix": "matrices/starry-night.bin",
+          "defaultStrength": 0.9
+        }
+      ],
+      "assets": {
+        "ios": {
+          "url": "https://github.com/argiad/frameai-packs/releases/download/v1/art-starry-night-ios.zip",
+          "mirrors": [],
+          "sha256": "6970b34423d09dbae9cc828f69e477d2eae87c786a04d54fab633d95e51f539c",
+          "sizeBytes": 61125
+        },
+        "android": {
+          "url": "https://github.com/argiad/frameai-packs/releases/download/v1/art-starry-night-android.zip",
+          "mirrors": [],
+          "sha256": "6970b34423d09dbae9cc828f69e477d2eae87c786a04d54fab633d95e51f539c",
+          "sizeBytes": 61125
+        }
+      }
+    },
+    {
+      "id": "art-great-wave",
+      "name": "The Great Wave",
+      "engine": "capvst",
+      "allowsCustomStyles": true,
+      "version": 1,
+      "minAppVersion": "2.0",
+      "styles": [
+        {
+          "id": "great-wave",
+          "name": "The Great Wave",
+          "mode": "artistic",
+          "thumbnail": "thumbs/great-wave.jpg",
+          "coloringMatrix": "matrices/great-wave.bin",
+          "defaultStrength": 0.9
+        }
+      ],
+      "assets": {
+        "ios": {
+          "url": "https://github.com/argiad/frameai-packs/releases/download/v1/art-great-wave-ios.zip",
+          "mirrors": [],
+          "sha256": "ea435fbb09731b6970d1e3a96a69800456b0bce1f5b693254470a13b31a38b7b",
+          "sizeBytes": 60682
+        },
+        "android": {
+          "url": "https://github.com/argiad/frameai-packs/releases/download/v1/art-great-wave-android.zip",
+          "mirrors": [],
+          "sha256": "ea435fbb09731b6970d1e3a96a69800456b0bce1f5b693254470a13b31a38b7b",
+          "sizeBytes": 60682
+        }
+      }
+    },
+    {
+      "id": "art-the-scream",
+      "name": "The Scream",
+      "engine": "capvst",
+      "allowsCustomStyles": true,
+      "version": 1,
+      "minAppVersion": "2.0",
+      "styles": [
+        {
+          "id": "the-scream",
+          "name": "The Scream",
+          "mode": "artistic",
+          "thumbnail": "thumbs/the-scream.jpg",
+          "coloringMatrix": "matrices/the-scream.bin",
+          "defaultStrength": 0.9
+        }
+      ],
+      "assets": {
+        "ios": {
+          "url": "https://github.com/argiad/frameai-packs/releases/download/v1/art-the-scream-ios.zip",
+          "mirrors": [],
+          "sha256": "bd24b167d305e5522abcd2370c52ada8bbce9346fec46140a493d3c57e8fb6fb",
+          "sizeBytes": 54619
+        },
+        "android": {
+          "url": "https://github.com/argiad/frameai-packs/releases/download/v1/art-the-scream-android.zip",
+          "mirrors": [],
+          "sha256": "bd24b167d305e5522abcd2370c52ada8bbce9346fec46140a493d3c57e8fb6fb",
+          "sizeBytes": 54619
+        }
+      }
+    },
+    {
+      "id": "art-water-lilies",
+      "name": "Water Lilies",
+      "engine": "capvst",
+      "allowsCustomStyles": true,
+      "version": 1,
+      "minAppVersion": "2.0",
+      "styles": [
+        {
+          "id": "water-lilies",
+          "name": "Water Lilies",
+          "mode": "artistic",
+          "thumbnail": "thumbs/water-lilies.jpg",
+          "coloringMatrix": "matrices/water-lilies.bin",
+          "defaultStrength": 0.9
+        }
+      ],
+      "assets": {
+        "ios": {
+          "url": "https://github.com/argiad/frameai-packs/releases/download/v1/art-water-lilies-ios.zip",
+          "mirrors": [],
+          "sha256": "7bb9f7f3f69ba90bce6dc8164c64bdfe549fd9ebd44a44fece15efa894e0f230",
+          "sizeBytes": 52680
+        },
+        "android": {
+          "url": "https://github.com/argiad/frameai-packs/releases/download/v1/art-water-lilies-android.zip",
+          "mirrors": [],
+          "sha256": "7bb9f7f3f69ba90bce6dc8164c64bdfe549fd9ebd44a44fece15efa894e0f230",
+          "sizeBytes": 52680
+        }
+      }
+    },
+    {
+      "id": "art-la-grande-jatte",
+      "name": "La Grande Jatte",
+      "engine": "capvst",
+      "allowsCustomStyles": true,
+      "version": 1,
+      "minAppVersion": "2.0",
+      "styles": [
+        {
+          "id": "la-grande-jatte",
+          "name": "La Grande Jatte",
+          "mode": "artistic",
+          "thumbnail": "thumbs/la-grande-jatte.jpg",
+          "coloringMatrix": "matrices/la-grande-jatte.bin",
+          "defaultStrength": 0.9
+        }
+      ],
+      "assets": {
+        "ios": {
+          "url": "https://github.com/argiad/frameai-packs/releases/download/v1/art-la-grande-jatte-ios.zip",
+          "mirrors": [],
+          "sha256": "bce306295c42e891a6edd8c2dcd26bdcf2bd57c7cd535025cc8e2c307a1e7f69",
+          "sizeBytes": 58578
+        },
+        "android": {
+          "url": "https://github.com/argiad/frameai-packs/releases/download/v1/art-la-grande-jatte-android.zip",
+          "mirrors": [],
+          "sha256": "bce306295c42e891a6edd8c2dcd26bdcf2bd57c7cd535025cc8e2c307a1e7f69",
+          "sizeBytes": 58578
+        }
+      }
+    },
+    {
+      "id": "art-cezanne",
+      "name": "Cezanne",
+      "engine": "capvst",
+      "allowsCustomStyles": true,
+      "version": 1,
+      "minAppVersion": "2.0",
+      "styles": [
+        {
+          "id": "cezanne",
+          "name": "Cezanne",
+          "mode": "artistic",
+          "thumbnail": "thumbs/cezanne.jpg",
+          "coloringMatrix": "matrices/cezanne.bin",
+          "defaultStrength": 0.9
+        }
+      ],
+      "assets": {
+        "ios": {
+          "url": "https://github.com/argiad/frameai-packs/releases/download/v1/art-cezanne-ios.zip",
+          "mirrors": [],
+          "sha256": "a0cea45269d1ba1bc7ee798d2dc09bce19a57518bb83e0c4ead829e25761d7b0",
+          "sizeBytes": 54904
+        },
+        "android": {
+          "url": "https://github.com/argiad/frameai-packs/releases/download/v1/art-cezanne-android.zip",
+          "mirrors": [],
+          "sha256": "a0cea45269d1ba1bc7ee798d2dc09bce19a57518bb83e0c4ead829e25761d7b0",
+          "sizeBytes": 54904
+        }
+      }
+    }
+  ]
+}
