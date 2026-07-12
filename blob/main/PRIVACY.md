@@ -89,7 +89,7 @@ when.
 
 ## Contact
 
-Questions about this policy: **support@example.com** *(← replace with your real address)*
+Questions about this policy: **support@steegler.com** *(← replace with your real address)*
 
 You can also open an issue at
 [github.com/argiad/frameai-packs/issues](https://github.com/argiad/frameai-packs/issues).
