@@ -8,6 +8,7 @@
       "allowsCustomStyles": false,
       "version": 1,
       "minAppVersion": "2.0",
+      "license": "BSD-3-Clause",
       "styles": [
         {
           "id": "udnie",
@@ -39,6 +40,7 @@
       "allowsCustomStyles": false,
       "version": 1,
       "minAppVersion": "2.0",
+      "license": "BSD-3-Clause",
       "styles": [
         {
           "id": "candy",
@@ -70,6 +72,7 @@
       "allowsCustomStyles": false,
       "version": 1,
       "minAppVersion": "2.0",
+      "license": "BSD-3-Clause",
       "styles": [
         {
           "id": "mosaic",
@@ -101,6 +104,7 @@
       "allowsCustomStyles": false,
       "version": 1,
       "minAppVersion": "2.0",
+      "license": "BSD-3-Clause",
       "styles": [
         {
           "id": "pointilism",
@@ -132,6 +136,7 @@
       "allowsCustomStyles": false,
       "version": 1,
       "minAppVersion": "2.0",
+      "license": "BSD-3-Clause",
       "styles": [
         {
           "id": "rain-princess",
@@ -163,6 +168,7 @@
       "allowsCustomStyles": true,
       "version": 1,
       "minAppVersion": "2.0",
+      "license": "self-made",
       "styles": [
         {
           "id": "starry-night",
@@ -195,6 +201,7 @@
       "allowsCustomStyles": true,
       "version": 1,
       "minAppVersion": "2.0",
+      "license": "self-made",
       "styles": [
         {
           "id": "great-wave",
@@ -227,6 +234,7 @@
       "allowsCustomStyles": true,
       "version": 1,
       "minAppVersion": "2.0",
+      "license": "self-made",
       "styles": [
         {
           "id": "the-scream",
@@ -259,6 +267,7 @@
       "allowsCustomStyles": true,
       "version": 1,
       "minAppVersion": "2.0",
+      "license": "self-made",
       "styles": [
         {
           "id": "water-lilies",
@@ -291,6 +300,7 @@
       "allowsCustomStyles": true,
       "version": 1,
       "minAppVersion": "2.0",
+      "license": "self-made",
       "styles": [
         {
           "id": "la-grande-jatte",
@@ -323,6 +333,7 @@
       "allowsCustomStyles": true,
       "version": 1,
       "minAppVersion": "2.0",
+      "license": "self-made",
       "styles": [
         {
           "id": "cezanne",
@@ -345,6 +356,70 @@
           "mirrors": [],
           "sha256": "a0cea45269d1ba1bc7ee798d2dc09bce19a57518bb83e0c4ead829e25761d7b0",
           "sizeBytes": 54904
+        }
+      }
+    },
+    {
+      "id": "fs-starry-brush",
+      "name": "Starry Brush",
+      "engine": "faststyle",
+      "allowsCustomStyles": false,
+      "version": 1,
+      "minAppVersion": "2.0",
+      "license": "self-made",
+      "styles": [
+        {
+          "id": "starry-brush",
+          "name": "Starry Brush",
+          "thumbnail": "thumbs/starry-brush.jpg",
+          "model": "models/starry-brush",
+          "defaultStrength": 1.0
+        }
+      ],
+      "assets": {
+        "ios": {
+          "url": "https://github.com/argiad/frameai-packs/releases/download/v1/fs-starry-brush-ios.zip",
+          "mirrors": [],
+          "sha256": "031aa4cf76c4c8151ba7aafd7f54c419daa7fab10444221af9722bc43af545a9",
+          "sizeBytes": 3141768
+        },
+        "android": {
+          "url": "https://github.com/argiad/frameai-packs/releases/download/v1/fs-starry-brush-android.zip",
+          "mirrors": [],
+          "sha256": "84295168de1691dc17cafa7e0a0053e49fa045489b6b785a864c3b9d1f4d2f6e",
+          "sizeBytes": 3146658
+        }
+      }
+    },
+    {
+      "id": "fs-klimt-gold",
+      "name": "Klimt Gold",
+      "engine": "faststyle",
+      "allowsCustomStyles": false,
+      "version": 1,
+      "minAppVersion": "2.0",
+      "license": "self-made",
+      "styles": [
+        {
+          "id": "klimt-gold",
+          "name": "Klimt Gold",
+          "thumbnail": "thumbs/klimt-gold.jpg",
+          "model": "models/klimt-gold",
+          "defaultStrength": 1.0
+        }
+      ],
+      "assets": {
+        "ios": {
+          "url": "https://github.com/argiad/frameai-packs/releases/download/v1/fs-klimt-gold-ios.zip",
+          "mirrors": [],
+          "sha256": "99502b10991bb1ddec0e8a79e93fc368c22388d1ae226f582046fc87356770c6",
+          "sizeBytes": 3139491
+        },
+        "android": {
+          "url": "https://github.com/argiad/frameai-packs/releases/download/v1/fs-klimt-gold-android.zip",
+          "mirrors": [],
+          "sha256": "34aaa461b6f6f87b3b9b4d99b30aaabcbdcc03163822dbac46faf8316ed52162",
+          "sizeBytes": 3144307
         }
       }
     }
