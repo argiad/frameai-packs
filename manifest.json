@@ -6,7 +6,7 @@
       "name": "Udnie",
       "engine": "faststyle",
       "allowsCustomStyles": false,
-      "version": 1,
+      "version": 2,
       "minAppVersion": "2.0",
       "license": "BSD-3-Clause",
       "styles": [
@@ -22,14 +22,14 @@
         "ios": {
           "url": "https://github.com/argiad/frameai-packs/releases/download/v1/fs-udnie-ios.zip",
           "mirrors": [],
-          "sha256": "7e65345a5cc7b7d1702124c4120f9ef2363862e7b1d6f1ef1ff7bf0a7ba43802",
-          "sizeBytes": 3134182
+          "sha256": "b9c84e1d792c0b336c78c737b243b3d7465b893a9254134333598e332d7f2f7b",
+          "sizeBytes": 3134201
         },
         "android": {
           "url": "https://github.com/argiad/frameai-packs/releases/download/v1/fs-udnie-android.zip",
           "mirrors": [],
-          "sha256": "97440b2df72d9be15ec19bda7232e83ecda358a491a9a14aedc0e948294d57b8",
-          "sizeBytes": 3139360
+          "sha256": "6b95f4daa69add5892dbbec6674d516e07417fb414a7eb5f0f778913a1f50ad4",
+          "sizeBytes": 3155165
         }
       }
     },
@@ -38,7 +38,7 @@
       "name": "Candy",
       "engine": "faststyle",
       "allowsCustomStyles": false,
-      "version": 1,
+      "version": 2,
       "minAppVersion": "2.0",
       "license": "BSD-3-Clause",
       "styles": [
@@ -54,14 +54,14 @@
         "ios": {
           "url": "https://github.com/argiad/frameai-packs/releases/download/v1/fs-candy-ios.zip",
           "mirrors": [],
-          "sha256": "6f1333ce4df58d2b5a525da87d6e51241dd42496451686d318a318cbf04583e8",
-          "sizeBytes": 3144368
+          "sha256": "8ec3066d50f632e5105010da4383493a43f9bd20b70e02b644853a0dea48e169",
+          "sizeBytes": 3144387
         },
         "android": {
           "url": "https://github.com/argiad/frameai-packs/releases/download/v1/fs-candy-android.zip",
           "mirrors": [],
-          "sha256": "8fcc88cdd39aff367c7a194b92a823c9f0f504b706f24127dc20e3117e62fd77",
-          "sizeBytes": 3149681
+          "sha256": "870df01937ab051f2cb5cbaba225e801b6cac6d9f91515375884bb8d46d1fbce",
+          "sizeBytes": 3165430
         }
       }
     },
@@ -70,7 +70,7 @@
       "name": "Mosaic",
       "engine": "faststyle",
       "allowsCustomStyles": false,
-      "version": 1,
+      "version": 2,
       "minAppVersion": "2.0",
       "license": "BSD-3-Clause",
       "styles": [
@@ -79,21 +79,22 @@
           "name": "Mosaic",
           "thumbnail": "thumbs/mosaic.jpg",
           "model": "models/mosaic",
-          "defaultStrength": 1.0
+          "defaultStrength": 1.0,
+          "gpuPrecision": "fp32"
         }
       ],
       "assets": {
         "ios": {
           "url": "https://github.com/argiad/frameai-packs/releases/download/v1/fs-mosaic-ios.zip",
           "mirrors": [],
-          "sha256": "54c72ca7a4d54f4b68a4128d354ad079432f8089c76bc612137d174493e0efeb",
-          "sizeBytes": 3146514
+          "sha256": "8f0fb017050f7f2557766dfb10abc6797e2bd3170c166298ee662c2b1f6c0415",
+          "sizeBytes": 3146550
         },
         "android": {
           "url": "https://github.com/argiad/frameai-packs/releases/download/v1/fs-mosaic-android.zip",
           "mirrors": [],
-          "sha256": "43c025f0f317cf51491c8faf182d2366ec137616ab3c24c0d7b5145d41c75f88",
-          "sizeBytes": 3151689
+          "sha256": "44d8ba5204074ec4ac10033bebf0c780aa46ce5cdfd82b970745e6ef9f9f449a",
+          "sizeBytes": 3164710
         }
       }
     },
@@ -102,7 +103,7 @@
       "name": "Pointilism",
       "engine": "faststyle",
       "allowsCustomStyles": false,
-      "version": 1,
+      "version": 2,
       "minAppVersion": "2.0",
       "license": "BSD-3-Clause",
       "styles": [
@@ -118,14 +119,14 @@
         "ios": {
           "url": "https://github.com/argiad/frameai-packs/releases/download/v1/fs-pointilism-ios.zip",
           "mirrors": [],
-          "sha256": "b9a89bf4a670fce73c60a27886f6cf5d22ebeb3109f705ae0470664c8da1bdb8",
-          "sizeBytes": 3134482
+          "sha256": "462a9c7a824dc302f07a264f9e3a9b96658d12512176675abaa9e10ad41750c1",
+          "sizeBytes": 3134500
         },
         "android": {
           "url": "https://github.com/argiad/frameai-packs/releases/download/v1/fs-pointilism-android.zip",
           "mirrors": [],
-          "sha256": "be19a45227147dc1982bbb55257dc501402adb9c98d11e831f2157be5eb50e05",
-          "sizeBytes": 3139669
+          "sha256": "6ff328cd0fa38abdcab42a2d68d2a25b525cd02605b05d511ef57ddc71705a6c",
+          "sizeBytes": 3150798
         }
       }
     },
@@ -134,7 +135,7 @@
       "name": "Rain Princess",
       "engine": "faststyle",
       "allowsCustomStyles": false,
-      "version": 1,
+      "version": 2,
       "minAppVersion": "2.0",
       "license": "BSD-3-Clause",
       "styles": [
@@ -150,14 +151,14 @@
         "ios": {
           "url": "https://github.com/argiad/frameai-packs/releases/download/v1/fs-rain-princess-ios.zip",
           "mirrors": [],
-          "sha256": "803811216f950b4d7f8b252f584734a1b2d7e0c34fa19f08d5bcbd7076c0c098",
-          "sizeBytes": 3142163
+          "sha256": "be78a2ee1e5c82493d3c837696bf6300279167829944724545bdd90af1444086",
+          "sizeBytes": 3142182
         },
         "android": {
           "url": "https://github.com/argiad/frameai-packs/releases/download/v1/fs-rain-princess-android.zip",
           "mirrors": [],
-          "sha256": "3d31a93412ec1838badb1d6f53fc1f54684ac37fd5e488b91252d1482663e490",
-          "sizeBytes": 3147412
+          "sha256": "a9d2a816cabb525ad3ad41e1e2421b6526fee5e633337e1fb4deedcae69f74ea",
+          "sizeBytes": 3159830
         }
       }
     },
@@ -364,7 +365,7 @@
       "name": "Starry Brush",
       "engine": "faststyle",
       "allowsCustomStyles": false,
-      "version": 1,
+      "version": 2,
       "minAppVersion": "2.0",
       "license": "self-made",
       "styles": [
@@ -380,14 +381,14 @@
         "ios": {
           "url": "https://github.com/argiad/frameai-packs/releases/download/v1/fs-starry-brush-ios.zip",
           "mirrors": [],
-          "sha256": "031aa4cf76c4c8151ba7aafd7f54c419daa7fab10444221af9722bc43af545a9",
-          "sizeBytes": 3141768
+          "sha256": "8c8c8a903eaefd31f696726199b461c0ee3d335eda075c9a716cb1b66b916cdb",
+          "sizeBytes": 3141769
         },
         "android": {
           "url": "https://github.com/argiad/frameai-packs/releases/download/v1/fs-starry-brush-android.zip",
           "mirrors": [],
-          "sha256": "84295168de1691dc17cafa7e0a0053e49fa045489b6b785a864c3b9d1f4d2f6e",
-          "sizeBytes": 3146658
+          "sha256": "43a3bf1065c8912fc48b52a16e7715188a540af6d29a7a1e751cea45d754b1b7",
+          "sizeBytes": 3159793
         }
       }
     },
@@ -396,7 +397,7 @@
       "name": "Klimt Gold",
       "engine": "faststyle",
       "allowsCustomStyles": false,
-      "version": 1,
+      "version": 2,
       "minAppVersion": "2.0",
       "license": "self-made",
       "styles": [
@@ -412,14 +413,38 @@
         "ios": {
           "url": "https://github.com/argiad/frameai-packs/releases/download/v1/fs-klimt-gold-ios.zip",
           "mirrors": [],
-          "sha256": "99502b10991bb1ddec0e8a79e93fc368c22388d1ae226f582046fc87356770c6",
-          "sizeBytes": 3139491
+          "sha256": "267c1a9626666e33d9f05a611dcdacb3449a5058019c3b9e57405cdab4a563cc",
+          "sizeBytes": 3141483
         },
         "android": {
           "url": "https://github.com/argiad/frameai-packs/releases/download/v1/fs-klimt-gold-android.zip",
           "mirrors": [],
-          "sha256": "34aaa461b6f6f87b3b9b4d99b30aaabcbdcc03163822dbac46faf8316ed52162",
-          "sizeBytes": 3144307
+          "sha256": "ad8dee4b71fa0909b1a7e85a64fb1ea0b13352b1379a379ef03c5682c6a2fdcb",
+          "sizeBytes": 3161417
+        }
+      }
+    },
+    {
+      "id": "hd-export",
+      "name": "HD Export \u00d74",
+      "engine": "upscale",
+      "allowsCustomStyles": false,
+      "version": 1,
+      "minAppVersion": "2.3",
+      "license": "BSD-3-Clause",
+      "styles": [],
+      "assets": {
+        "ios": {
+          "url": "https://github.com/argiad/frameai-packs/releases/download/v1/hd-export-ios.zip",
+          "mirrors": [],
+          "sha256": "b7b6846aed4f9f41c9ef5c73b559879e3ad293b513a708acb51f27a2f161c214",
+          "sizeBytes": 2284138
+        },
+        "android": {
+          "url": "https://github.com/argiad/frameai-packs/releases/download/v1/hd-export-android.zip",
+          "mirrors": [],
+          "sha256": "8b75901d6c417645ccaec570ea41ac8ac832be8fcca1b1637959583642a87bde",
+          "sizeBytes": 2285858
         }
       }
     }
